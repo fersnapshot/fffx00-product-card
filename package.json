@@ -17,6 +17,11 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "url": "https://github.com/fersnapshot/fffx00-product-card",
+    "type": "git"
+  },
+  "homepage": "https://desprogramar.com",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -45,5 +50,13 @@
     "typescript-eslint": "^8.46.4",
     "vite": "^7.2.4",
     "vite-plugin-dts": "^4.5.4"
-  }
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "tailwindcss",
+    "typescript",
+    "product",
+    "card"
+  ]
 }
