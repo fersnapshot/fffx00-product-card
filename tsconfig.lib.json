@@ -9,5 +9,6 @@
     "rootDir": "./lib",
     "types": ["react", "react-dom"]
   },
-  "include": ["lib", "lib/declarations.d.ts"]
+  "include": ["lib", "lib/declarations.d.ts"],
+  "exclude": ["lib/**/*.test.tsx"]
 }
